@@ -62,7 +62,7 @@ export const Login = () => {
               source={require('../../assets/images/adaptive-icon.png')}
               style={styles.logo}
               resizeMode="contain"
-              accessibilityLabel="ScanGo Logo"
+              accessibilityLabel="ScanNGo Logo"
             />
             <Text style={styles.welcomeText}>Welcome to ScanGo</Text>
             <Text style={styles.subtitleText}>
